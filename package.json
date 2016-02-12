@@ -1,0 +1,11 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "description": "Slack Bot integration using webhooks",
+  "main": "server.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
