@@ -1,11 +1,16 @@
 {
-  "name": "script",
+  "name": "untitled",
   "version": "1.0.0",
-  "description": "Slack Bot integration using webhooks",
-  "main": "server.js",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "author": "",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
-    "request": "^2.69.0"
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "node-slackr": "^0.1.2"
   }
 }

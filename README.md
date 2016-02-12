@@ -1,13 +1,14 @@
-SlackBot
+Node Slackbot
 ===
 
-***Work In Progress***
+Web interface to node slack bot
 
-How to run
----
- 
- To start the script run: 
- `node server.js`
- 
-Setup
----
+To get started run
+```
+    npm install
+    node script.js
+```
+
+Server should be running at `http://localhost:3000`
+
+https://github.com/chenka/node-slackr
