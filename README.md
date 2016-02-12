@@ -1,6 +1,7 @@
 SlackBot
 ===
 
+***Work In Progress***
 
 How to run
 ---
