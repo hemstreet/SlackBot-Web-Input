@@ -14,7 +14,7 @@ app.get('/', function (req, res) {
     res.sendFile(__dirname + '/view/index.html');
 });
 
-app.post('/cartel', function (req, res) {
+app.post('/', function (req, res) {
 
     var slack = new Slack(config.webHook, {
         channel: req.body.destination,
